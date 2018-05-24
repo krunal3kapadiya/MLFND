@@ -48,4 +48,4 @@ Accuracy, identifying R curve and values are helped to complete it.
 # Questions
 
 Tweet me at: 
-[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=for-the-badge)](https://twitter.com/krunal3kapadiya)
+[![Twitter URL](https://img.shields.io/badge/Twitter-@krunal3kapadiya-blue.svg?style=for-the-badge)](https://twitter.com/krunal3kapadiya)
