@@ -1,6 +1,7 @@
-# Projects of Machine Learning Foundation Nanodegree [Link](https://in.udacity.com/course/machine-learning-engineer-nanodegree--nd009-infn)
+# Projects of Machine Learning Foundation Nanodegree 
+[Link](https://in.udacity.com/course/machine-learning-engineer-nanodegree--nd009-infn)
 
-# US Bikeshare Data [Link](https://github.com/krunal3kapadiya/MLFND/tree/master/P1-US-BikeShare-Data)
+# US Bikeshare Data 
 
 Bikeshare data contains, concept of python programming with exercise of pythons loops, conditions, list, sets and dictionaries.
 
@@ -12,7 +13,9 @@ Bikeshare data contains, concept of python programming with exercise of pythons 
     - [Seaborn](https://seaborn.pydata.org/) (:heart: it)
     - [Bokeh](https://bokeh.pydata.org/en/latest/)
 
-# Analyze Perceptual Phenomenon[Link](https://github.com/krunal3kapadiya/MLFND/tree/master/P2-Perceptual-Phenomenon)
+Project [__:one:__](https://github.com/krunal3kapadiya/MLFND/tree/master/P1-US-BikeShare-Data)
+
+# Analyze Perceptual Phenomenon
 
 Perceptual phenomenon have bit practice on data visualizations, hypothesis testing, sample distributions and finding P-Values. I learnt to find central tendency of the data in normal distributions.
 
@@ -22,15 +25,18 @@ Perceptual phenomenon have bit practice on data visualizations, hypothesis testi
 - [Detailed assumption in T-tests](http://www.psychology.emory.edu/clinical/bliwise/Tutorials/TOM/meanstests/assump.htm)
 - [T-Test in concepts in detail](http://support.minitab.com/en-us/minitab/17/topic-library/basic-statistics-and-graphs/hypothesis-tests/tests-of-means/why-use-paired-t/)
 
+Project [__:two:__](https://github.com/krunal3kapadiya/MLFND/tree/master/P2-Perceptual-Phenomenon)
 
-# Investigating TMDB dataset[Link](https://github.com/krunal3kapadiya/MLFND/tree/master/P3-Investigating-Tmdb-Dataset)
+# Investigating TMDB dataset
 
 Using pandas data, multiple range of questions's from dataset are created and answered accordingly.
 
 - [Addressing questions](https://buckwoody.wordpress.com/2015/12/30/the-hardest-thing-in-data-science/)
 - [Handling missing values](https://gallery.azure.ai/Experiment/Methods-for-handling-missing-values-1)
 
-# Predicting boston housing prices[Link](https://github.com/krunal3kapadiya/MLFND/tree/master/P4-Boston-Housing)
+Project [__:three:__](https://github.com/krunal3kapadiya/MLFND/tree/master/P3-Investigating-Tmdb-Dataset)
+
+# Predicting boston housing prices
 
 Accuracy, identifying R curve and values are helped to complete it.
 
@@ -43,6 +49,8 @@ Accuracy, identifying R curve and values are helped to complete it.
 - [Link 1](http://scott.fortmann-roe.com/docs/BiasVariance.html)
 - [Link 2](https://insidebigdata.com/2014/10/22/ask-data-scientist-bias-vs-variance-tradeoff/)
 - [Link 3](https://machinelearningmastery.com/gentle-introduction-to-the-bias-variance-trade-off-in-machine-learning/)
+
+Project [__:four:__](https://github.com/krunal3kapadiya/MLFND/tree/master/P4-Boston-Housing)
 
 # Questions
 
