@@ -1,5 +1,4 @@
 # Projects of Machine Learning Foundation Nanodegree 
-[Link](https://in.udacity.com/course/machine-learning-engineer-nanodegree--nd009-infn)
 
 # US Bikeshare Data 
 
