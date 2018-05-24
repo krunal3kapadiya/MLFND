@@ -1,7 +1,6 @@
-# Projects of Machine Learning Foundation Nanodegree
-[Udacity Machine Learning Foundation Nano Degree Projects](https://in.udacity.com/course/machine-learning-engineer-nanodegree--nd009-infn)
+# Projects of Machine Learning Foundation Nanodegree [Link](https://in.udacity.com/course/machine-learning-engineer-nanodegree--nd009-infn)
 
-# [US Bikeshare Data](https://github.com/krunal3kapadiya/MLFND/tree/master/P1-US-BikeShare-Data)
+# US Bikeshare Data [Link](https://github.com/krunal3kapadiya/MLFND/tree/master/P1-US-BikeShare-Data)
 
 Bikeshare data contains, concept of python programming with exercise of pythons loops, conditions, list, sets and dictionaries.
 
@@ -13,7 +12,7 @@ Bikeshare data contains, concept of python programming with exercise of pythons 
     - [Seaborn](https://seaborn.pydata.org/) (:heart: it)
     - [Bokeh](https://bokeh.pydata.org/en/latest/)
 
-# [Analyze Perceptual Phenomenon](https://github.com/krunal3kapadiya/MLFND/tree/master/P2-Perceptual-Phenomenon)
+# Analyze Perceptual Phenomenon[Link](https://github.com/krunal3kapadiya/MLFND/tree/master/P2-Perceptual-Phenomenon)
 
 Perceptual phenomenon have bit practice on data visualizations, hypothesis testing, sample distributions and finding P-Values. I learnt to find central tendency of the data in normal distributions.
 
@@ -24,14 +23,14 @@ Perceptual phenomenon have bit practice on data visualizations, hypothesis testi
 - [T-Test in concepts in detail](http://support.minitab.com/en-us/minitab/17/topic-library/basic-statistics-and-graphs/hypothesis-tests/tests-of-means/why-use-paired-t/)
 
 
-# [Investigating TMDB dataset](https://github.com/krunal3kapadiya/MLFND/tree/master/P3-Investigating-Tmdb-Dataset)
+# Investigating TMDB dataset[Link](https://github.com/krunal3kapadiya/MLFND/tree/master/P3-Investigating-Tmdb-Dataset)
 
 Using pandas data, multiple range of questions's from dataset are created and answered accordingly.
 
 - [Addressing questions](https://buckwoody.wordpress.com/2015/12/30/the-hardest-thing-in-data-science/)
 - [Handling missing values](https://gallery.azure.ai/Experiment/Methods-for-handling-missing-values-1)
 
-# [Predicting boston housing prices](https://github.com/krunal3kapadiya/MLFND/tree/master/P4-Boston-Housing)
+# Predicting boston housing prices[Link](https://github.com/krunal3kapadiya/MLFND/tree/master/P4-Boston-Housing)
 
 Accuracy, identifying R curve and values are helped to complete it.
 
@@ -49,3 +48,19 @@ Accuracy, identifying R curve and values are helped to complete it.
 
 Tweet me at: 
 [![Twitter URL](https://img.shields.io/badge/Twitter-@krunal3kapadiya-blue.svg?style=for-the-badge)](https://twitter.com/krunal3kapadiya)
+
+# License
+
+    Copyright 2018 Krunal Kapadiya
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
