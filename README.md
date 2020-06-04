@@ -1,5 +1,10 @@
 # Projects of Machine Learning Foundation Nanodegree 
 
+
+![RepoSize](https://img.shields.io/github/repo-size/krunal3kapadiya/MLFND)
+![Languages](https://img.shields.io/github/languages/count/krunal3kapadiya/MLFND)
+[![Twitter](https://img.shields.io/badge/Twitter-%40krunal3kapadiya-blue.svg)](https://twitter.com/krunal3kapadiya)
+
 # US Bikeshare Data 
 
 Bikeshare data contains, concept of python programming with exercise of pythons loops, conditions, list, sets and dictionaries.
